@@ -1,0 +1,19 @@
+{
+  "name": "Security",
+  "version": "0.1.0",
+  "description": "Flat Security Library",
+  "author": "Braden Steffaniak",
+  "license": "ISC",
+  "scripts": {},
+  "main": {
+    "source": "src",
+    "dependencies": {}
+  },
+  "test": {
+    "mainClass": "flatlang/http/Security_TestSuite",
+    "source": "src",
+    "dependencies": {
+      "github:FlatLang/Nest": "master"
+    }
+  }
+}
