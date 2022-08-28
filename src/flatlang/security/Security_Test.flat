@@ -1,0 +1,11 @@
+package flatlang/security
+
+import flatlang/security/MD5
+
+testable class {
+  test `can create`() {
+    let value = Object()
+
+    expect(value).toNotBe(null)
+  }
+}
