@@ -1,4 +1,4 @@
-package "flatlang/security"
+package "flat/security"
 
 class Sha256 {
     static Long[] CONSTANTS =

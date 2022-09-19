@@ -1,6 +1,6 @@
-package flatlang/security
+package flat/security
 
-import flatlang/security/MD5
+import flat/security/MD5
 
 testable class {
   test `can create`() {

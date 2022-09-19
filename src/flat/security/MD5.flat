@@ -1,6 +1,6 @@
-package "flatlang/security"
+package "flat/security"
 
-import "flatlang/security/NativeMD5.h"
+import "flat/security/NativeMD5.h"
 
 class MD5 {
     external char[] nova_md5(char[] input)
