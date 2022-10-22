@@ -1,4 +1,4 @@
-package "flat/security"
+package flat/security
 
 class MD5 {
     external char[] nova_md5(char[] input)
