@@ -4,7 +4,7 @@ import flat/security/MD5
 
 testable class {
   test `can create`() {
-    let value = Object()
+    let value = "test"
 
     expect(value).toNotBe(null)
   }
