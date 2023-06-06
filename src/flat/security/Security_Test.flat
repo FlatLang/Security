@@ -3,9 +3,9 @@ package flat/security
 import flat/security/MD5
 
 testable class {
-  test `can create`() {
-    let value = "test"
+    test `can create`() {
+        let value = "test"
 
-    expect(value).toNotBe(null)
-  }
+        expect(value).toNotBe(null)
+    }
 }
